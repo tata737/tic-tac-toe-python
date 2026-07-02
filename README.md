@@ -8,6 +8,16 @@ Tic Tac Toe game build with python and tkinter
 -Winner detection
 -Restart game
 
+##Screenshots
+
+###Game-Window
+
+![Game Window](screenshots/game.png)
+
+###Winner-Detection
+
+![Winner Detection](screenshots/game.png)
+
 ##Technologies
 
 -Python
